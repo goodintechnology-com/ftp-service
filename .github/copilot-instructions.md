@@ -1,4 +1,4 @@
-# Copilot instructions for devex-golden-path
+# Copilot instructions for ftp-service
 
 This project uses **Java 21** and **Maven**, with **Spring Boot 3.x**. There is no other build tool, no Gradle, and no Lombok — write plain Java.
 
